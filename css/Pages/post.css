@@ -125,3 +125,11 @@
 .post-comment-button:hover {
   background-color: #555;
 }
+@media (max-width: 991px)
+{
+
+}
+@media (max-width: 767px)
+{
+  
+}

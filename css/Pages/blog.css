@@ -289,3 +289,23 @@
   border-color: #bbb;
   color: #333;
 }
+/* @media (max-width: 991px)
+{
+  .blog-container
+  {
+    flex-direction: column;
+  }
+  .blog-title
+  {
+    width: 100%;
+    
+  }
+  .sidebar
+  {
+
+  }
+}
+@media (max-width: 767px)
+{
+
+} */
