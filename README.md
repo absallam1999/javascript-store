@@ -1,6 +1,6 @@
 # Coze STORE - JavaScript E-commerce Platform
 
-This repository contains the source code for **Coze STORE**, a JavaScript-based e-commerce shopping platform.
+This repository contains the source code for **Coze STORE**: a JavaScript-based e-commerce shopping platform.
 The project was developed as part of the JavaScript course at the Information Technology Institute (ITI).
 
 ## Project Overview
