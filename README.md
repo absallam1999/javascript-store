@@ -41,6 +41,7 @@ To run the application locally:
 
 This project was a collaborative effort by the following team members:
 
+- Ramy Mahana ([@ARCHER1511](https://github.com/ARCHER1511))
 - Mohamed Badr ([@absallam1999](https://github.com/absallam1999))
 - Marwan Gaber ([@marawangomaa](https://github.com/marawangomaa))
 - Mazen Mohamed ([@mazen7472](https://github.com/mazen7472))
